@@ -43,7 +43,27 @@ const capitals = [
     { name: "Jerusalem", country: "Israel", lat: 31.7683, lon: 35.2137 },
     { name: "Baghdad", country: "Iraq", lat: 33.3128, lon: 44.3615 },
     { name: "Karachi", country: "Pakistan", lat: 24.8607, lon: 67.0011 },
-    { name: "Dhaka", country: "Bangladesh", lat: 23.8103, lon: 90.4125 }
+    { name: "Dhaka", country: "Bangladesh", lat: 23.8103, lon: 90.4125 },
+     { name: "Singapore", country: "Singapore", lat: 1.3521, lon: 103.8198 },
+    { name: "Hong Kong", country: "China", lat: 22.3193, lon: 114.1694 },
+    { name: "Doha", country: "Qatar", lat: 25.2854, lon: 51.5310 },
+    { name: "Kuwait City", country: "Kuwait", lat: 29.3759, lon: 47.9774 },
+    { name: "Abu Dhabi", country: "UAE", lat: 24.4539, lon: 54.3773 },
+    { name: "Colombo", country: "Sri Lanka", lat: 6.9271, lon: 79.8612 },
+    { name: "Kathmandu", country: "Nepal", lat: 27.7172, lon: 85.3240 },
+    { name: "Tashkent", country: "Uzbekistan", lat: 41.2995, lon: 69.2401 },
+    { name: "Almaty", country: "Kazakhstan", lat: 43.2220, lon: 76.8512 },
+    { name: "Warsaw", country: "Poland", lat: 52.2297, lon: 21.0122 },
+    { name: "Prague", country: "Czech Republic", lat: 50.0755, lon: 14.4378 },
+    { name: "Budapest", country: "Hungary", lat: 47.4979, lon: 19.0402 },
+    { name: "Stockholm", country: "Sweden", lat: 59.3293, lon: 18.0686 },
+    { name: "Copenhagen", country: "Denmark", lat: 55.6761, lon: 12.5683 },
+    { name: "Helsinki", country: "Finland", lat: 60.1699, lon: 24.9384 },
+    { name: "Dublin", country: "Ireland", lat: 53.3498, lon: -6.2603 },
+    { name: "Zurich", country: "Switzerland", lat: 47.3769, lon: 8.5417 },
+    { name: "Barcelona", country: "Spain", lat: 41.3851, lon: 2.1734 },
+    { name: "Milan", country: "Italy", lat: 45.4642, lon: 9.1900 },
+    { name: "Cape Town", country: "South Africa", lat: -33.9249, lon: 18.4241 }
 ]
 
 window.onload = function() {
