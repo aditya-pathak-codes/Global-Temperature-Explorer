@@ -141,4 +141,4 @@ https://github.com/aditya-pathak-codes
 
 ## ⭐ Support
 
-If you found this project helpful, consider **starring the repository** and sharing feedback!
+If you found this project helpful, consider **starring the repository** and sharing your feedback!
